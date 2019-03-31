@@ -19,10 +19,8 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-
-        {% is sight.description %}
-        <p>{{ default: site.github.project_tagline }}</p>
-        {% endif %}
+        
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
         <!--<p class="view"><a href="{{ site.github.repository_url }}">My Email is <small>{{ site.description | default: site.github.project_tagline }}</small></a></p>-->
 
         {% if site.github.is_project_page %}
