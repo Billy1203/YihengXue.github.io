@@ -2,9 +2,16 @@
 layout: default
 ---
 
-# This is a TEST by Yiheng Xue
-## SUSTech
+# Resume
+## Education
 Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+| Date        | School         | Major |
+|:-------------|:------------------|:------|
+| 2015-2019           | Southern University of Science and Technology | Computer Science and Engineering  |
+| 2017.summer | University of British of Columbian  | ECE  |
+
+I am going to graduating from SUSTech in July, 2019. My major is CSE and I am interesting on Computer Vision and Machine Learning.
 
 [Link to another page](./another-page.html).
 
