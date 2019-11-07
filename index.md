@@ -3,15 +3,17 @@ layout: default
 ---
 
 # Resume
+I have graduated from SUSTech in July, 2019. My major is CSE and I am interesting on Computer Vision and Machine Learning. Experience a four-year English learning environment and learn new things quickly. I have studied *Financial Accounting*, *Internet of Finance* and some other Fin-tech courses. 
+
+My capstone design is *Real-time 3D human skeleton reconstruction based on camera array system* which is the No.2 project design @College of Engineering of SUSTech. I have focused on this project during my last year in SUSTech. I hope to do some related works about *Computer Vision* & *Machine Learning*.
+
+I chose to have a gap year began on July, 2019. I am a teach assistant of Machine Learning course in SUSTech and I am doing some others projects.
 ## Education
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-| Date        | School         | Major |
+| Date        | School         | Department |
 |:-------------:|:------------------:|:------:|
-| 2015-2019           | [Southern University of Science and Technology](https://www.sustech.edu.cn) | Computer Science and Engineering  |
-| 2017.summer | [University of British of Columbian](https://www.ubc.ca)  | Electrical and Computer Engineering  |
-
-I have graduated from SUSTech in July, 2019. My major is CSE and I am interesting on Computer Vision and Machine Learning. Experience a four-year English learning environment and learn new things quickly. I have studied financial accounting, internet finance and some other Fin-tech courses.
+| 2015-2019           | [Southern University of Science and Technology](https://www.sustech.edu.cn) | CSE |
+| 2017.summer | [University of British of Columbian](https://www.ubc.ca)  | ECE |
 
 [Link to another page](./another-page.html).
 
