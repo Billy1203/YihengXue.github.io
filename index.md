@@ -3,34 +3,32 @@ layout: default
 ---
 
 # Resume
+
+
 I have graduated from SUSTech in July, 2019. My major is CSE and I am interesting on Computer Vision and Machine Learning. Experience a four-year English learning environment and learn new things quickly. I have studied *Financial Accounting*, *Internet of Finance* and some other Fin-tech courses. 
 
 My capstone design is *Real-time 3D human skeleton reconstruction based on camera array system* which is the No.2 project design @College of Engineering of SUSTech. I have focused on this project during my last year in SUSTech. I hope to do some related works about *Computer Vision* & *Machine Learning*.
 
-I chose to have a gap year began on July, 2019. I am a teach assistant of Machine Learning course in SUSTech and I am doing some others projects.
+I chose to have a gap year began on July, 2019. I am a teach assistant of Machine Learning & Intelligent Robots courses in SUSTech and I am also doing some other research projects.
 ## Education
 
 | Date        | School         | Department |
 |:-------------:|:------------------:|:------:|
-| 2015-2019           | [Southern University of Science and Technology](https://www.sustech.edu.cn) | CSE |
+| 2015-2019           | [Southern University of Science and Technology](https://www.sustech.edu.cn) | [CSE](http://cse.sustech.edu.cn) |
 | 2017.summer | [University of British of Columbian](https://www.ubc.ca)  | ECE |
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 ## Experience
 
-* 2015.9 
+* 2015 - *the beginning of my UG life*
     * Have participated in school student associations, school league committees, alumni associations and other student organizations, like the establishment of football clubs, photography studios.
 * 2016
-    * Have took part in the establishment of a 50-students racing team and was responsible for various tasks such as personnel and finance and served as a team manager.
-* 2016.9
+    * NanShan [Formula_SAE](https://www.fsaeonline.com) Team - Department of Mechanical and Energy Engineering of SUSTech
+        * Have took part in the establishment of a 50-students racing team and was responsible for various tasks such as personnel and finance and served as a team manager.
     * Department of Publicity and Public Relations of SUSTech
 * 2017
-    * Shenzhen Publishing Group - Kylin bookbar
+    * [Shenzhen Publishing Group](https://h5.szbookmall.com) - Kylin Bookbar in SUSTech
+* 2018
+    * [Baker Tilly China Certified Public Accountant](http://www.tzcpa.com)
 
 ## Header 2
 
@@ -67,7 +65,7 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-### My Projects
+### Projects
 
 |         | Title          | Abstract | Time |
 |:-------:|:------------------:|:------:|:----|
@@ -81,6 +79,9 @@ end
 | 8 | Vehicle Changing Lane | Explore a polynomial five times | 2018.3 | 
 | 9 | Android App Develop | Work with [Intellifusion](https://www.intellif.com) to build an automatic data annotation platform | 2018.6 |
 | 10 | Intelligence Data Analysis | Using fundamental functions like PCA, word2vec to analyze data | 2018.7 |
+| 11 | Android Apps Test | - | 2018.9 |
+
+[roboeye Intro](./assets/files/roboeyeIntro.pdf).
 
 ### There's a horizontal rule below this.
 
