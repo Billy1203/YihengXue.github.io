@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Resume
 
 
@@ -30,42 +26,24 @@ I chose to have a gap year began on July, 2019. I am a teach assistant of Machin
 * 2018
     * [Baker Tilly China Certified Public Accountant](http://www.tzcpa.com)
 
-## Header 2
+## Projects
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Current Projects
+* Real-time pingpong detection based on RGB-Camera
+<center>
+<img src=./assets/img/pingpongReport.png width="50%" height="50%" />
+Figure 1. pingpongReport
+</center>
 
-### Header 3
+* babyCare based on Infrared-Camera
+<center>
+<img src=./assets/img/babyCareReport.png width="50%" height="50%" />
+Figure 2. babyCareReport
+</center>
+[roboeye Intro](./assets/files/roboeyeIntro.pdf).
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-### Projects
+### Precious Projects
 
 |         | Title          | Abstract | Time |
 |:-------:|:------------------:|:------:|:----|
@@ -81,68 +59,10 @@ end
 | 10 | Intelligence Data Analysis | Using fundamental functions like PCA, word2vec to analyze data | 2018.7 |
 | 11 | Android Apps Test | - | 2018.9 |
 
-[roboeye Intro](./assets/files/roboeyeIntro.pdf).
-
-### There's a horizontal rule below this.
 
 * * *
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+I am looking for 2021 Spring/Fall PhD program.
 ```
