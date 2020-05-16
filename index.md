@@ -30,16 +30,10 @@ I chose to have a gap year began on July, 2019. I am a teach assistant of Machin
 
 ### Current Projects
 * Real-time pingpong detection based on RGB-Camera
-<center>
-<img src=./assets/img/pingpongReport.png width="50%" height="50%" />
-Figure 1. pingpongReport
-</center>
+![pingpongReport](./assets/img/pingpongReport.png)
 
 * babyCare based on Infrared-Camera
-<center>
-<img src=./assets/img/babyCareReport.png width="50%" height="50%" />
-Figure 2. babyCareReport
-</center>
+![babyCareReport](./assets/img/babyCareReport.png)
 [roboeye Intro](./assets/files/roboeyeIntro.pdf).
 
 
