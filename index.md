@@ -1,4 +1,4 @@
-# Resume
+# Resume
 
 
 I have graduated from SUSTech in July, 2019. My major is CSE and I am interesting on Computer Vision and Machine Learning. Experience a four-year English learning environment and learn new things quickly. I have studied *Financial Accounting*, *Internet of Finance* and some other Fin-tech courses. 
@@ -52,6 +52,9 @@ I chose to have a gap year began on July, 2019. I am a teach assistant of Machin
 | 9 | Android App Develop | Work with [Intellifusion](https://www.intellif.com) to build an automatic data annotation platform | 2018.6 |
 | 10 | Intelligence Data Analysis | Using fundamental functions like PCA, word2vec to analyze data | 2018.7 |
 | 11 | Android Apps Test | - | 2018.9 |
+| 12 | Capstone Design | Real-time 3D human skeleton reconstruction based on RGB-camera array | 2018.8-2019.7 |
+| 13 | Intelligent Pingpong System | Detecting pingpong break-point instantly | 2019.7 |
+| 14 | Baby-care System based on Infrared Camera | Detecting whether baby covered normally at night in the case of low light | 2019.12 |
 
 
 * * *
@@ -60,3 +63,14 @@ I chose to have a gap year began on July, 2019. I am a teach assistant of Machin
 ```
 I am looking for 2021 Spring/Fall PhD program.
 ```
+
+### Personal Statement
+Dear esteemed professor, I’m Yiheng Xue graduating from Southern University of Science and Technology (QS: 14th in China in 2020, THE: 8th in China in 2020) in July, 2019. When I was about to graduate, I got an opportunity to stay in my tutor's company to be responsible for implementation of the projects which has started before. So I chose a gap year. Nowadays, I am a teaching assistant of two courses, machine learning and computer vision.
+
+I have ever tried many majors. In my freshman and sophomore year, I joined the Departments of Environmental Engineering, Mechanical Engineering and Materials Science and Engineering successively and got some preliminary understanding of scientific researches. After that, I decided to join CSE in my junior year and has been engaged in the research of computer vision so far. After joining CSE, my GPA is above 3.6/4.0. Meanwhile, my project “Real-time 3D human skeleton reconstruction based on RGB camera array” won the 2nd prize in Capstone Design of the College of Engineering. The instructors (Prof. Hao, Prof. Zhang@SUSTech, Dr. Wu@HUAWEI Technologies Co., Ltd) highly approved the project.
+
+In addition to studies, I like sports very much and also served as the captain of our college football team. I am also good at photographing and I have ever established an independent video studio and was responsible for shooting and editing campus promotion videos and drama videos. I have excellent organization and coordination skills as well. I was involved in founding the FSAE Formula Racing team and responsible for marketing and management.
+
+After nearly a year of work, I became more interested in scientific research. When I got the actual needs of many small businesses in Shenzhen, I hope to solve the problems with them through technical methods. In the field of computer vision that I am studying, scientific research projects are ahead of industrial projects by nearly a decade. It is very critical to how to convert laboratory results into industrial results. And I really love to learn new knowledge. I stayed up late in order to understand the latest YOLO-v4 on that day. Due to the YOLO in my project, I’m trying to use the latest YOLO-v4 to optimize my entire project. Gradually, I became more and more calm. And I have learned to precipitate myself and enjoyed loneliness, so that I can focus more on the scientific problems. Scientific research is indeed time-consuming and difficult. However, every time I had discussions with tutors or experienced seniors, I would get benefited a lot and be inspired.
+
+Last but not least, I really hope I can devote myself to scientific research and get this opportunity.
