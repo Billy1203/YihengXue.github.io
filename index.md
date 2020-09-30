@@ -31,12 +31,11 @@ I chose to have a gap year began on July, 2019. I am a teach assistant of Machin
 ### Current Projects
 * Real-time pingpong detection based on RGB-Camera
 ![pingpongReport](./assets/img/pingpongReport.png)
-
 * babyCare based on Infrared-Camera
 ![babyCareReport](./assets/img/babyCareReport.png)
 [roboeye Intro](./assets/files/roboeyeIntro.pdf).
-
 * 低质量的手机LCD屏下指纹图像识别技术
+* 危险车辆多视角盲区图像拼接
 
 
 ### Precious Projects
@@ -49,8 +48,8 @@ I chose to have a gap year began on July, 2019. I am a teach assistant of Machin
 | 4 | Projects of AI Course | Solving CARP path planning, identify MINST ,finish the Go game | 2017.9 |
 | 5 | Sudoku based on STM32 | Making a Sudoku game platform through the infrared control structures based STM32 and LSV displayer | 2017.11 |
 | 6 | Unmanned Aerial Vehicle Cluster in Distributed Control | Multiple unmanned aerial vehicles control based on ROS and Rviz system | 2017.12 |
-| 7 | Comprehensive Analysis of the Campus Network | Analysis the campus wireless network signal distribution | 2017.12 | 
-| 8 | Vehicle Changing Lane | Explore a polynomial five times | 2018.3 | 
+| 7 | Comprehensive Analysis of the Campus Network | Analysis the campus wireless network signal distribution | 2017.12 |
+| 8 | Vehicle Changing Lane | Explore a polynomial five times | 2018.3 |
 | 9 | Android App Develop | Work with [Intellifusion](https://www.intellif.com) to build an automatic data annotation platform | 2018.6 |
 | 10 | Intelligence Data Analysis | Using fundamental functions like PCA, word2vec to analyze data | 2018.7 |
 | 11 | Android Apps Test | - | 2018.9 |
