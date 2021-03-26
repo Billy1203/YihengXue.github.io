@@ -36,6 +36,7 @@ I chose to have a gap year began on July, 2019. I am a teach assistant of Machin
 [roboeye Intro](./assets/files/roboeyeIntro.pdf).
 * 低质量的手机LCD屏下指纹图像识别技术
 * 危险车辆多视角盲区图像拼接
+* Real-time Hand Gesture Recognition on Mobile Devices
 
 
 ### Precious Projects
@@ -57,13 +58,14 @@ I chose to have a gap year began on July, 2019. I am a teach assistant of Machin
 | 13 | Intelligent Pingpong System | Detecting pingpong break-point instantly 乒乓球瞬时检测系统，系统检测达到200次击球不漏检，识别误差<4cm，在专业乒乓球训练球馆已完成部署 | 2019.7 |
 | 14 | Baby-care System based on Infrared Camera | Detecting whether baby covered normally at night in the case of low light 热成像的红外信息可在复杂环境中监测婴幼儿睡眠状况，系统可应用在家庭婴幼儿卧室、幼儿园等场景 | 2019.12 |
 | 15 | Low-quality LCD-fingerprint Recoginition | 低质量的手机屏下指纹图片识别，部分成果达到业界要求FRR<2% FAR<1/50000 | 2020.5 |
+| 16 | Real-time Hand Gesture Recognition on Mobile Devices | 在移动设备上实现第二人称视角的手势识别，满足直播带货场景中人机交互的需求 | 2020.7 |
 
 
 * * *
 
 
 ```
-I am looking for 2021 Spring/Fall PhD program.
+I am looking for 2021 Fall PhD program.
 ```
 
 ### Personal Statement
@@ -73,6 +75,6 @@ I have ever tried many majors. In my freshman and sophomore year, I joined the D
 
 In addition to studies, I like sports very much and also served as the captain of our college football team. I am also good at photographing and I have ever established an independent video studio and was responsible for shooting and editing campus promotion videos and drama videos. I have excellent organization and coordination skills as well. I was involved in founding the FSAE Formula Racing team and responsible for marketing and management.
 
-After nearly a year of work, I became more interested in scientific research. When I got the actual needs of many small businesses in Shenzhen, I hope to solve the problems with them through technical methods. In the field of computer vision that I am studying, scientific research projects are ahead of industrial projects by nearly a decade. It is very critical to how to convert laboratory results into industrial results. And I really love to learn new knowledge. I stayed up late in order to understand the latest YOLO-v4 on that day. Due to the YOLO in my project, I’m trying to use the latest YOLO-v4 to optimize my entire project. Gradually, I became more and more calm. And I have learned to precipitate myself and enjoyed loneliness, so that I can focus more on the scientific problems. Scientific research is indeed time-consuming and difficult. However, every time I had discussions with tutors or experienced seniors, I would get benefited a lot and be inspired.
+After nearly two years of work, I became more interested in scientific research. When I got the actual needs of many small businesses in Shenzhen, I hope to solve the problems with them through technical methods. In the field of computer vision that I am studying, scientific research projects are ahead of industrial projects by nearly a decade. It is very critical to how to convert laboratory ideas into industrial products. And I am really happy to learn new technologies. I stayed up late in order to understand the latest YOLO-v5 on that days. Due to the YOLO in my project, I’m trying to use the latest YOLO-v5 to optimize my entire project. Gradually, I became more and more calm. And I have learned to precipitate myself and enjoyed loneliness, so that I can focus more on the scientific problems. Scientific research is indeed time-consuming and difficult. However, every time I had discussions with tutors or experienced seniors, I would get benefited a lot and be inspired.
 
 Last but not least, I really hope I can devote myself to scientific research and get this opportunity.
