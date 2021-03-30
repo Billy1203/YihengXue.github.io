@@ -4,7 +4,7 @@
 <style>
 img{
     width: 80%;
-    padding-left: 20%;
+    padding-left: 10%;
 }
 </style>
 
