@@ -27,7 +27,7 @@ I chose to have a gap year began on July, 2019. I am a teach assistant of Machin
 * 2016
     * NanShan [Formula_SAE](https://www.fsaeonline.com) Team - Department of Mechanical and Energy Engineering of SUSTech
         * Have took part in the establishment of a 50-students racing team and was responsible for various tasks such as personnel and finance and served as a team manager.
-    * Department of Publicity and Public Relations of SUSTech
+    * Department of Publicity and Public Relations of SUSTech - [My Video Portfolio](./assets/files/yihengPortfolio.pdf)
 * 2017
     * [Shenzhen Publishing Group](https://h5.szbookmall.com) - Kylin Bookbar in SUSTech
 * 2018
