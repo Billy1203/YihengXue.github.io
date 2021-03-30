@@ -22,7 +22,7 @@ I chose to have a gap year began on July, 2019. I am a teach assistant of Machin
 
 ## Experience
 
-* 2015 - <font color=green size=4>The beginning of my UG life</font>
+* 2015 - <font color=green size=3>*The beginning of my UG life*</font>
     * Have participated in school student associations, school league committees, alumni associations and other student organizations, like the establishment of football clubs, photography studios.
 * 2016
     * NanShan [Formula_SAE](https://www.fsaeonline.com) Team - Department of Mechanical and Energy Engineering of SUSTech
@@ -32,17 +32,17 @@ I chose to have a gap year began on July, 2019. I am a teach assistant of Machin
     * [Shenzhen Publishing Group](https://h5.szbookmall.com) - Kylin Bookbar in SUSTech
 * 2018
     * [Baker Tilly China Certified Public Accountant](http://www.tzcpa.com)
-* 2019 - <font color=skyblue size=4>The beginning of my research work</font>
+* 2019 - <font color=skyblue size=3>*The beginning of my research work*</font>
     * [Roboeye Technology (Shenzhen) Co,. Ltd](./assets/files/roboeyeIntro.pdf) - Algorithm Engineer
 
 ## Projects
 
 ### Current Projects
 * Real-time pingpong detection based on RGB-Camera [Due to 2020.4]
-<div align=right><img src='./assets/img/pingpongReport.png' width='60%' height='60%'></div>
+<div align=right><img src='./assets/img/pingpongReport.png' width='80%' height='80%'></div>
 <!--![pingpongReport](./assets/img/pingpongReport.png,width='60%')-->
 * babyCare based on Infrared-Camera [Due to 2020.6]
-<div align=right><img src='./assets/img/babyCareReport.png' width='60%' height='60%'></div>
+<div align=right><img src='./assets/img/babyCareReport.png' width='80%' height='80%'></div>
 <!--![babyCareReport](./assets/img/babyCareReport.png)-->
 * 低质量的手机LCD屏下指纹图像识别技术 [Due to 2021.4]
 * 危险车辆多视角盲区图像拼接 [Due to 2021.4]
@@ -51,10 +51,9 @@ I chose to have a gap year began on July, 2019. I am a teach assistant of Machin
 
 ### Precious Projects
 
-<font size=2>
 |         | Title          | Abstract | Time |
 |:-------:|:------------------:|:------:|:----|
-| 1 | The Sound based on Tesla High-voltage Electric Current | Using our device to play music | 2016.10 |
+| 1 | <font size=2>The Sound based on Tesla High-voltage Electric Current</font> | Using our device to play music | 2016.10 |
 | 2 | Rubik's Cube Solving Robots | Develop the algorithm based on OpenCV and the robot could solve the Rubik's Cube automatically | 2017.4 |
 | 3 | Real-time AR-Sandbox | Projection in sandbox and dynamic imaging to build in 3D model based on Linux and Miscrosoft Kinect v2.0 | 2017.9 |
 | 4 | Projects of AI Course | Solving CARP path planning, identify MINST ,finish the Go game | 2017.9 |
@@ -65,12 +64,11 @@ I chose to have a gap year began on July, 2019. I am a teach assistant of Machin
 | 9 | Android App Develop | Work with [Intellifusion](https://www.intellif.com) to build an automatic data annotation platform | 2018.6 |
 | 10 | Intelligence Data Analysis | Using fundamental functions like PCA, word2vec to analyze data | 2018.7 |
 | 11 | Android Apps Test | - | 2018.9 |
-| 12 | Capstone Design | Real-time 3D human skeleton reconstruction based on RGB-camera array 实时三位人体骨骼模型重建RGB相机阵列系统，多视角彩色图像通过深度神经网络获取二维人体骨骼信息后进行三维模型重建，有效避免封闭空间中特殊人群监护的遮挡问题，通过多视角信息的约束提高检测的准确率与置信度 | 2018.8-2019.7 |
+| 12 | Capstone Design | <font size=2>Real-time 3D human skeleton reconstruction based on RGB-camera array 实时三位人体骨骼模型重建RGB相机阵列系统，多视角彩色图像通过深度神经网络获取二维人体骨骼信息后进行三维模型重建，有效避免封闭空间中特殊人群监护的遮挡问题，通过多视角信息的约束提高检测的准确率与置信度</font> | 2018.8-2019.7 |
 | 13 | Intelligent Pingpong System | Detecting pingpong break-point instantly 乒乓球瞬时检测系统，系统检测达到200次击球不漏检，识别误差<4cm，在专业乒乓球训练球馆已完成部署 | 2019.7 |
 | 14 | Baby-care System based on Infrared Camera | Detecting whether baby covered normally at night in the case of low light 热成像的红外信息可在复杂环境中监测婴幼儿睡眠状况，系统可应用在家庭婴幼儿卧室、幼儿园等场景 | 2019.12 |
 | 15 | Low-quality LCD-fingerprint Recoginition | 低质量的手机屏下指纹图片识别，部分成果达到业界要求FRR<2% FAR<1/50000 | 2020.5 |
 | 16 | Real-time Hand Gesture Recognition on Mobile Devices | 在移动设备上实现第二人称视角的手势识别，满足直播带货场景中人机交互的需求 | 2020.7 |
-</font>
 
 * * *
 
