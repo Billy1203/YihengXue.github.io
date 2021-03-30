@@ -1,6 +1,13 @@
 # Resume
 
 
+<style>
+img{
+    width: 80%;
+    padding-left: 20%;
+}
+</style>
+
 I have graduated from SUSTech in July, 2019. My major is CSE and I am interesting on Computer Vision and Machine Learning. Experience a four-year English learning environment and learn new things quickly. I have studied *Financial Accounting*, *Internet of Finance* and some other Fin-tech courses. 
 
 My capstone design is *Real-time 3D human skeleton reconstruction based on camera array system* which is the No.2 project design @College of Engineering of SUSTech. I have focused on this project during my last year in SUSTech. I hope to do some related works about *Computer Vision* & *Machine Learning*.
@@ -25,18 +32,19 @@ I chose to have a gap year began on July, 2019. I am a teach assistant of Machin
     * [Shenzhen Publishing Group](https://h5.szbookmall.com) - Kylin Bookbar in SUSTech
 * 2018
     * [Baker Tilly China Certified Public Accountant](http://www.tzcpa.com)
+* 2019
+    * [Roboeye Technology (Shenzhen) Co,. Ltd](./assets/files/roboeyeIntro.pdf) - Algorithm Engineer
 
 ## Projects
 
 ### Current Projects
-* Real-time pingpong detection based on RGB-Camera
+* Real-time pingpong detection based on RGB-Camera [Due to 2020.4]
 ![pingpongReport](./assets/img/pingpongReport.png)
-* babyCare based on Infrared-Camera
+* babyCare based on Infrared-Camera [Due to 2020.6]
 ![babyCareReport](./assets/img/babyCareReport.png)
-[roboeye Intro](./assets/files/roboeyeIntro.pdf).
-* 低质量的手机LCD屏下指纹图像识别技术
-* 危险车辆多视角盲区图像拼接
-* Real-time Hand Gesture Recognition on Mobile Devices
+* 低质量的手机LCD屏下指纹图像识别技术 [Due to 2021.4]
+* 危险车辆多视角盲区图像拼接 [Due to 2021.4]
+* Real-time Hand Gesture Recognition on Mobile Devices [Due to 2021.4]
 
 
 ### Precious Projects
