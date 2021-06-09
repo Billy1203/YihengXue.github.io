@@ -78,7 +78,7 @@ I am looking for 2021 Fall PhD program.
 ```
 
 ### Personal Statement
-Dear esteemed professor, I’m Yiheng Xue graduating from Southern University of Science and Technology (QS: 14th in China in 2020, THE: 8th in China in 2020) in July, 2019. When I was about to graduate, I got an opportunity to stay in my tutor's company to be responsible for implementation of the projects which has started before. So I chose a gap year. Nowadays, I am a teaching assistant of two courses, machine learning and computer vision.
+Dear esteemed professor, I’m Yiheng Xue graduating from Southern University of Science and Technology (2022 QS: 13th in China and Global Ranking 275th, 2021 THE: 8th in China and Asia ranks 26th) in July, 2019. When I was about to graduate, I got an opportunity to stay in my tutor's company to be responsible for implementation of the projects which has started before. So I chose a gap year. Nowadays, I am a teaching assistant of two courses, machine learning and computer vision.
 
 I have ever tried many majors. In my freshman and sophomore year, I joined the Departments of Environmental Engineering, Mechanical Engineering and Materials Science and Engineering successively and got some preliminary understanding of scientific researches. After that, I decided to join CSE in my junior year and has been engaged in the research of computer vision so far. After joining CSE, my GPA is above 3.6/4.0. Meanwhile, my project “Real-time 3D human skeleton reconstruction based on RGB camera array” won the 2nd prize in Capstone Design of the College of Engineering. The instructors (Prof. Hao, Prof. Zhang@SUSTech, Dr. Wu@HUAWEI Technologies Co., Ltd) highly approved the project.
 
